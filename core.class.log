@@ -1,0 +1,76 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493517188342@s.whatsapp.net',
+    fromMe: false,
+    id: '3A9C80633AB7A1A9EBF6',
+    participant: undefined
+  },
+  messageTimestamp: 1683068087,
+  pushName: 'Ale',
+  message: Message {
+    conversation: 'Bueno',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Bueno',
+  from: '5493517188342'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493517188342@s.whatsapp.net',
+    fromMe: false,
+    id: '3AD173AFFC352273112B',
+    participant: undefined
+  },
+  messageTimestamp: 1683068091,
+  pushName: 'Ale',
+  message: Message {
+    conversation: 'Perdon por estar ocupado',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Perdon por estar ocupado',
+  from: '5493517188342'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493517188342@s.whatsapp.net',
+    fromMe: false,
+    id: '3A541EF90D0B733176D5',
+    participant: undefined
+  },
+  messageTimestamp: 1683068094,
+  pushName: 'Ale',
+  message: Message {
+    conversation: 'Sabes',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Sabes',
+  from: '5493517188342'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493517188342@s.whatsapp.net',
+    fromMe: false,
+    id: '3A313203C464BA563BB6',
+    participant: undefined
+  },
+  messageTimestamp: 1683068112,
+  pushName: 'Ale',
+  message: Message {
+    conversation: 'Perdón por tener una vida fuera de nosotros',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Perdón por tener una vida fuera de nosotros',
+  from: '5493517188342'
+}
